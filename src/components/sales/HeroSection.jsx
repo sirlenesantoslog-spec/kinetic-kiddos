@@ -2,7 +2,7 @@ import React, { useCallback } from 'react'
 import { motion } from 'framer-motion'
 import { trackEvent } from '../../hooks/useMetaPixel'
 
-const HERO_IMAGE = 'https://media.base44.com/images/public/69f0b2d2311bacc339deb06a/187facbb2_generated_1fccdd8c.png'
+const HERO_IMAGE = 'https://i.ibb.co/fztJH5FM/Whats-App-Image-capa.jpg'
 const CTA_URL = 'https://pay.kiwify.com/QPHoen5'
 
 const fadeUp = (delay = 0) => ({
